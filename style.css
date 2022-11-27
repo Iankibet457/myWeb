@@ -1,3 +1,59 @@
-body {
-    background: blue;
-  }
+body{
+    background-image: url(./images/site\ background.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+h3{
+    color: aliceblue;
+}
+
+h3#gta5{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    background-image: url(./images/V.jpg);
+    background-size: 200px 200px;
+    
+}
+
+h3#fifa23{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    background-image:url(./images/fifa-main.jpg);
+    background-size: 200px 200px;
+
+    
+}
+
+h3#nba23{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    background-image:url(./images/nba.jpg);
+    background-size: 200px 200px;
+    
+}
+
+h3#cod{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    background-image:url(./images/cod.jpg);
+    background-size: 200px 200px;
+
+}
+
+h3#fortnite{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    background-image:url(./images/co2ekt.jpg);
+    background-size: 200px 200px;
+    
+}
