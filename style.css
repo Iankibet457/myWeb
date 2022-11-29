@@ -6,27 +6,33 @@ body{
 h1{
     text-align: center;
     color: aliceblue;
+    font-family: fantasy;
+    font-style: italic;
 }
 
 h3{
     color: aliceblue;
 }
 
+
 h3#gta5{
     height: 200px;
     width: 200px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-image: url(./images/V.jpg);
     background-size: 200px 200px;
+    opacity:calc(80%);
+    
     
 }
 
 h3#fifa23{
     height: 200px;
     width: 200px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-image:url(./images/fifa-main.jpg);
     background-size: 200px 200px;
+    opacity:calc(65%);
 
     
 }
@@ -34,138 +40,175 @@ h3#fifa23{
 h3#nba23{
     height: 200px;
     width: 200px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-image:url(./images/nba.jpg);
     background-size: 200px 200px;
+    opacity:calc(75%);
     
 }
 
 h3#cod{
     height: 200px;
     width: 200px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-image:url(./images/cod.jpg);
     background-size: 200px 200px;
+    opacity:calc(75%);
 
 }
 
 h3#fortnite{
     height: 200px;
     width: 200px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-image:url(./images/co2ekt.jpg);
     background-size: 200px 200px;
+    opacity:calc(90%);
     
 }
 
 h4#a{
-    text-align: center;
-    border: 2px solid white;
+    text-align:center;
+    /* border: 2px solid white; */
     width: 350px;
     position: absolute;
     left: 20%;
     top: 20%;
     height: 125px;
-    color: aliceblue;
+    color:aliceblue;
+    font-size: small;
+    font-family:fantasy;
+    font-style:italic;
+    /* opacity:calc(90%); */
+    
+    
 
 }
 h4#b{
     text-align: center;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     width: 350px;
     position: absolute;
     left: 20%;
-    top: 54%;
+    top: 60%;
     height: 125px;
     color: aliceblue;
+    font-size: small;
+    font-family:fantasy;
+    font-style:italic;
 
 }
 h4#c{
     text-align: center;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     width: 350px;
     position: absolute;
     left: 20%;
-    top: 87%;
+    top: 100%;
     height: 125px;
     color: aliceblue;
+    font-size: small;
+    font-family:fantasy;
+    font-style:italic;
 
 }
 h4#d{
     text-align: center;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     width: 350px;
     position: absolute;
     left: 20%;
-    top: 121%;
+    top: 140%;
     height: 125px;
     color: aliceblue;
+    font-size: small;
+    font-family:fantasy;
+    font-style:italic;
+    
 
 }
 h4#e{
     text-align: center;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     width: 350px;
     position: absolute;
     left: 20%;
-    top: 155%;
+    top: 180%;
     height: 125px;
     color: aliceblue;
+    font-size: small;
+    font-family:fantasy;
+    font-style:italic;
 
 }
 h4#f{
     text-align: center;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     width: 350px;
     position: absolute;
     left: 130%;
     top: 6%;
     height: 125px;
     color: aliceblue;
+    font-size: small;
+    font-family:fantasy;
+    font-style:italic;
 
 }
 h4#g{
     text-align: center;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     width: 350px;
     position: absolute;
     left: 130%;
     top: 26%;
     height: 125px;
     color: aliceblue;
+    font-size: small;
+    font-family:fantasy;
+    font-style:italic;
 
 }
 h4#h{
     text-align: center;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     width: 350px;
     position: absolute;
     left: 130%;
     top: 45%;
     height: 125px;
     color: aliceblue;
+    font-size: small;
+    font-family:fantasy;
+    font-style:italic;
 
 }
 h4#i{
     text-align: center;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     width: 350px;
     position: absolute;
     left: 130%;
     top: 65%;
     height: 125px;
     color: aliceblue;
+    font-size: small;
+    font-family:fantasy;
+    font-style:italic;
 
 }
 h4#j{
     text-align: center;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     width: 350px;
     position: absolute;
     left: 130%;
     top: 85%;
     height: 125px;
     color: aliceblue;
+    font-size: small;
+    font-family:fantasy;
+    font-style:italic;
 
 }
 
@@ -177,46 +220,56 @@ div#div2{
     flex-direction: column;
     position: absolute;
     left: 50%;
-    top: 10%;
+    top: 9%;
 }
 
 h3#gow{
     height: 200px;
     width: 200px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-image: url(./images/God_of_War_4_cover.jpg);
     background-size: 200px 200px;
+    opacity:calc(90%);
 
 }
 h3#sm{
     height: 200px;
     width: 200px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-image:url(./images/Spider-Man_PS4_cover.jpg);
     background-size: 200px 200px;
+    opacity:calc(85%);
 
 }
 h3#bf{
     height: 200px;
     width: 200px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-image: url(./images/Battlefield_4_cover_art.jpg);
     background-size: 200px 200px;
+    opacity:calc(80%);
 
 }
 h3#mc{
     height: 200px;
     width: 200px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-image: url(./images/Minecraft_cover.png);
     background-size: 200px 200px;
+    opacity:calc(85%);
 
 }
 h3#al{
     height: 200px;
     width: 200px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-image: url(./images/Apex_legends_cover.jpg);
     background-size: 200px 200px;
+    opacity:calc(80%);
 
+}
+
+button{
+    font-family: fantasy;
+    font-style: italic;
 }
